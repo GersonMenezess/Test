@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="Lista_de_Rémedios">Lista de Remedios</string>
+    <string name="Nome_do_Rémedio">Nome do Rémedio</string>
+    <string name="Descrição">Descrição</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="TODO">TODO</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="Consulta">Consulta</string>
+</resources>
